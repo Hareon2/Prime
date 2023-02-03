@@ -518,7 +518,7 @@ header {
 }
 .products-item__image {
   display: block;
-  padding: 0 0 100% 0;
+  padding: 0 0 100%;
   margin: 0px 0px 25px 0px;
 }
 .products-item__title {
